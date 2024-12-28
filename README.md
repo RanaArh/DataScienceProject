@@ -1,5 +1,6 @@
 # DataScienceProject
 This repository contains the implementation and findings of my final semester project for the course Advanced Techniques in Data Science. The project focuses on applying data mining techniques to analyze and extract valuable insights from educational data. 
+
 **Problem Statement**
 The primary objective of this project is to analyze and predict the pass/fail status of students enrolled in a Data Mining course at FAST National University. The dataset contains detailed marks from quizzes, assignments, and sessional exams, provided by the course instructor.
 
